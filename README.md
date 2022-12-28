@@ -1,4 +1,8 @@
-# WishGee backend Build with NODE and TypeORM
+# WishGee backend Build with LOVE by Ishwar Rimal
+
+## There are two services that can access the backend:
+1. wishgee frontend -> customers from wishgee.com
+2. Wishgee Admin -> agents at admin.wishgee.com
 
 Steps to run this project:
 
